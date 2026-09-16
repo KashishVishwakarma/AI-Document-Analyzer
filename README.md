@@ -39,6 +39,3 @@ Easily deployable to **Render** and structured as a clean **GitHub repository**.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-<img width="937" height="413" alt="Screenshot 2026-09-16 121401" src="https://github.com/user-attachments/assets/fd23457c-4551-4bec-b5ab-ccf5aa05d5e6" />
-
-
