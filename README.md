@@ -45,4 +45,4 @@ Easily deployable to **Render** and structured as a clean **GitHub repository**.
 pip install -r requirements.txt
 streamlit run app.py
 
-=
+
