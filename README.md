@@ -33,9 +33,15 @@ Easily deployable to **Render** and structured as a clean **GitHub repository**.
   - Contains summaries, teacher breakdowns, quiz questions with answer key, flashcard tables, sentiment metrics, and the embedded word cloud image.
 
 ---
+##🌐 Live
+**Link** 
+- https://ai-document-analyzer-q4tg.onrender.com
+
 
 ## 🚀 Local Quickstart
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+=
